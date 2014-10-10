@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea36db99-6bd9-4545-96c6-27046d750bee" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_box.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/2dd375b089c48bebda08e14241ed8f45035953f4/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_shared.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/633be5f5e614ec16d767a432c3b5e1ab3f4eb1f6/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/187bcfffe8270dd482c7f50739c4566f7f9e099a/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/660ffc28715b2851505584a77a7a04bf0316b4eb/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.sass-cache/633be5f5e614ec16d767a432c3b5e1ab3f4eb1f6/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/error.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/server.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/server" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/t2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/t2_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="t2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="node_modules/cookie-parser/index.js" />
+    <ignored path="node_modules/cookie-parser/package.json" />
+    <ignored path="node_modules/cookie-parser/lib/parse.js" />
+    <ignored path="node_modules/cookie-parser/README.md" />
+    <ignored path="node_modules/cookie-parser/HISTORY.md" />
+    <ignored path="node_modules/node-compass/.npmignore" />
+    <ignored path="node_modules/node-compass/Changelog.md" />
+    <ignored path="node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/README.md" />
+    <ignored path="node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/index.js" />
+    <ignored path="node_modules/cookie-parser/LICENSE" />
+    <ignored path="node_modules/node-compass/README.md" />
+    <ignored path="node_modules/node-compass/index.js" />
+    <ignored path="node_modules/node-compass/package.json" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie-signature/History.md" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie-signature/Makefile" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie-signature/package.json" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie-signature/index.js" />
+    <ignored path="node_modules/serve-favicon/index.js" />
+    <ignored path="node_modules/serve-favicon/LICENSE" />
+    <ignored path="node_modules/serve-favicon/package.json" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie/.npmignore" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie/package.json" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie/LICENSE" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie-signature/.npmignore" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie-signature/Readme.md" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie/index.js" />
+    <ignored path="node_modules/cookie-parser/node_modules/cookie/README.md" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/LICENSE" />
+    <ignored path="node_modules/serve-favicon/node_modules/ms/README.md" />
+    <ignored path="node_modules/jade/node_modules/with/README.md" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/package.json" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/HISTORY.md" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/index.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/README.md" />
+    <ignored path="node_modules/serve-favicon/README.md" />
+    <ignored path="node_modules/serve-favicon/HISTORY.md" />
+    <ignored path="node_modules/serve-favicon/node_modules/ms/.npmignore" />
+    <ignored path="node_modules/serve-favicon/node_modules/ms/index.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/ms/package.json" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/crc24.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/crc16_ccitt.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/crc.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/crc8.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/crc16_modbus.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/crc1.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/create.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/index.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/LICENSE" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/.npmignore" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/package.json" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/README.md" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/crc8_1wire.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/crc32.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/hex.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/fresh/README.md" />
+    <ignored path="node_modules/serve-favicon/node_modules/fresh/HISTORY.md" />
+    <ignored path="node_modules/serve-favicon/node_modules/fresh/index.js" />
+    <ignored path="node_modules/serve-favicon/node_modules/fresh/package.json" />
+    <ignored path="node_modules/serve-favicon/node_modules/fresh/LICENSE" />
+    <ignored path="node_modules/serve-favicon/node_modules/etag/node_modules/crc/lib/crc16.js" />
+    <ignored path="node_modules/body-parser/LICENSE" />
+    <ignored path="node_modules/express/node_modules/merge-descriptors/component.json" />
+    <ignored path="node_modules/express/node_modules/merge-descriptors/README.md" />
+    <ignored path="node_modules/body-parser/index.js" />
+    <ignored path="node_modules/body-parser/HISTORY.md" />
+    <ignored path="node_modules/body-parser/package.json" />
+    <ignored path="node_modules/body-parser/lib/types/text.js" />
+    <ignored path="node_modules/body-parser/README.md" />
+    <ignored path="node_modules/body-parser/lib/read.js" />
+    <ignored path="node_modules/body-parser/lib/types/json.js" />
+    <ignored path="node_modules/body-parser/lib/types/raw.js" />
+    <ignored path="node_modules/body-parser/lib/types/urlencoded.js" />
+    <ignored path="node_modules/body-parser/node_modules/qs/CONTRIBUTING.md" />
+    <ignored path="node_modules/body-parser/node_modules/qs/.travis.yml" />
+    <ignored path="node_modules/body-parser/node_modules/qs/CHANGELOG.md" />
+    <ignored path="node_modules/body-parser/node_modules/qs/.jshintignore" />
+    <ignored path="node_modules/body-parser/node_modules/qs/.npmignore" />
+    <ignored path="node_modules/body-parser/node_modules/qs/LICENSE" />
+    <ignored path="node_modules/body-parser/node_modules/qs/.jshintrc" />
+    <ignored path="node_modules/body-parser/node_modules/qs/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/qs/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/qs/README.md" />
+    <ignored path="node_modules/body-parser/node_modules/qs/Makefile" />
+    <ignored path="node_modules/body-parser/node_modules/qs/lib/parse.js" />
+    <ignored path="node_modules/body-parser/node_modules/qs/lib/utils.js" />
+    <ignored path="node_modules/body-parser/node_modules/qs/lib/stringify.js" />
+    <ignored path="node_modules/body-parser/node_modules/qs/lib/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/qs/test/parse.js" />
+    <ignored path="node_modules/body-parser/node_modules/qs/test/stringify.js" />
+    <ignored path="node_modules/body-parser/node_modules/depd/LICENSE" />
+    <ignored path="node_modules/body-parser/node_modules/depd/Readme.md" />
+    <ignored path="node_modules/body-parser/node_modules/depd/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/depd/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/depd/History.md" />
+    <ignored path="node_modules/body-parser/node_modules/depd/lib/compat/buffer-concat.js" />
+    <ignored path="node_modules/body-parser/node_modules/depd/lib/compat/callsite-tostring.js" />
+    <ignored path="node_modules/body-parser/node_modules/depd/lib/compat/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/bytes/Readme.md" />
+    <ignored path="node_modules/body-parser/node_modules/bytes/.npmignore" />
+    <ignored path="node_modules/body-parser/node_modules/bytes/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/bytes/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/bytes/History.md" />
+    <ignored path="node_modules/body-parser/node_modules/bytes/component.json" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/LICENSE" />
+    <ignored path="node_modules/body-parser/node_modules/bytes/Makefile" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/HISTORY.md" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/node_modules/mime-types/HISTORY.md" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/node_modules/mime-types/README.md" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/node_modules/mime-types/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/node_modules/mime-types/LICENSE" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/node_modules/mime-types/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/README.md" />
+    <ignored path="node_modules/body-parser/node_modules/raw-body/.npmignore" />
+    <ignored path="node_modules/body-parser/node_modules/raw-body/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/README.md" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/db.json" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/.npmignore" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/Changelog.md" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/LICENSE" />
+    <ignored path="node_modules/body-parser/node_modules/raw-body/README.md" />
+    <ignored path="node_modules/body-parser/node_modules/raw-body/HISTORY.md" />
+    <ignored path="node_modules/body-parser/node_modules/raw-body/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/lib/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/lib/extend-node.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/lib/streams.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/README.md" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/.travis.yml" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/utf7.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/dbcs-codec.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/utf16.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/sbcs-data.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/sbcs-codec.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/sbcs-data-generated.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gbk-added.json" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/tables/cp936.json" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/tables/cp949.json" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/internal.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/dbcs-data.js" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/tables/eucjp.json" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/tables/big5-added.json" />
+    <ignored path="node_modules/body-parser/node_modules/media-typer/HISTORY.md" />
+    <ignored path="node_modules/body-parser/node_modules/media-typer/index.js" />
+    <ignored path="node_modules/body-parser/node_modules/on-finished/LICENSE" />
+    <ignored path="node_modules/body-parser/node_modules/media-typer/README.md" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/tables/shiftjis.json" />
+    <ignored path="node_modules/body-parser/node_modules/iconv-lite/encodings/tables/cp950.json" />
+    <ignored path="node_modules/body-parser/node_modules/media-typer/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/media-typer/LICENSE" />
+    <ignored path="node_modules/body-parser/node_modules/on-finished/README.md" />
+    <ignored path="node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/LICENSE" />
+    <ignored path="node_modules/body-parser/node_modules/on-finished/package.json" />
+    <ignored path="node_modules/body-parser/node_modules/on-finished/HISTORY.md" />
+    <ignored path="node_modules/body-parser/node_modules/on-finished/index.js" />
+    <ignored path="node_modules/jade/node_modules/with/package.json" />
+    <ignored path="node_modules/jade/node_modules/with/vars.js" />
+    <ignored path="node_modules/jade/node_modules/with/index.js" />
+    <ignored path="node_modules/jade/node_modules/.bin/mkdirp" />
+    <ignored path="node_modules/jade/node_modules/with/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/with/LICENSE" />
+    <ignored path="node_modules/jade/lib/nodes/mixin-block.js" />
+    <ignored path="node_modules/jade/lib/nodes/block-comment.js" />
+    <ignored path="node_modules/jade/lib/nodes/index.js" />
+    <ignored path="node_modules/jade/lib/nodes/tag.js" />
+    <ignored path="node_modules/jade/lib/nodes/block.js" />
+    <ignored path="node_modules/jade/lib/nodes/node.js" />
+    <ignored path="node_modules/jade/lib/nodes/text.js" />
+    <ignored path="node_modules/jade/lib/nodes/mixin.js" />
+    <ignored path="node_modules/jade/lib/nodes/each.js" />
+    <ignored path="node_modules/jade/lib/nodes/filter.js" />
+    <ignored path="node_modules/jade/lib/nodes/case.js" />
+    <ignored path="node_modules/jade/lib/nodes/literal.js" />
+    <ignored path="node_modules/jade/lib/nodes/comment.js" />
+    <ignored path="node_modules/jade/lib/nodes/doctype.js" />
+    <ignored path="node_modules/jade/lib/nodes/attrs.js" />
+    <ignored path="node_modules/jade/lib/nodes/code.js" />
+    <ignored path="node_modules/jade/lib/runtime.js" />
+    <ignored path="node_modules/jade/lib/filters-client.js" />
+    <ignored path="node_modules/jade/lib/filters.js" />
+    <ignored path="node_modules/jade/lib/parser.js" />
+    <ignored path="node_modules/jade/lib/inline-tags.js" />
+    <ignored path="node_modules/jade/lib/jade.js" />
+    <ignored path="node_modules/jade/lib/doctypes.js" />
+    <ignored path="node_modules/jade/lib/utils.js" />
+    <ignored path="node_modules/jade/lib/lexer.js" />
+    <ignored path="node_modules/jade/lib/compiler.js" />
+    <ignored path="node_modules/jade/bin/jade.js" />
+    <ignored path="node_modules/jade/README.md" />
+    <ignored path="node_modules/jade/component.json" />
+    <ignored path="node_modules/jade/index.js" />
+    <ignored path="node_modules/jade/jade.js" />
+    <ignored path="node_modules/jade/package.json" />
+    <ignored path="node_modules/jade/.npmignore" />
+    <ignored path="node_modules/jade/jade.md" />
+    <ignored path="node_modules/jade/LICENSE" />
+    <ignored path="node_modules/jade/.release.json" />
+    <ignored path="node_modules/jade/runtime.js" />
+    <ignored path="node_modules/jade/release.js" />
+    <ignored path="node_modules/jade/jade-language.md" />
+    <ignored path="node_modules/jade/Readme_zh-cn.md" />
+    <ignored path="node_modules/.bin/jade" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/test-dog-fooding.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/test-binary-search.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/test-api.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/run-tests.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/build/assert-shim.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/build/prefix-utils.jsm" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/build/test-suffix.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/build/mini-require.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/build/test-prefix.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/build/suffix-browser.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/build/suffix-source-map.jsm" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-map-generator.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/test-base64.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/test-util.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-map-consumer.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/test-array-set.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/test-base64-vlq.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-node.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/test/source-map/util.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/uglify-to-browserify/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/uglify-to-browserify/package.json" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/uglify-to-browserify/index.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/uglify-to-browserify/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/uglify-to-browserify/README.md" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/uglify-to-browserify/test/index.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/build/suffix-utils.jsm" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/package.json" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/intercept.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/amdefine.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/README.md" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/uglify-to-browserify/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/bin/usage.txt" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/race.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/bin/cmd.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/sync.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/return.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/return_sync.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/opts_fs_sync.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/readme.markdown" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/package.json" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/index.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/examples/pow.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/chmod.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/perm.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/package.json" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/readme.markdown" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/root.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/opts_fs.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/rel.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/clobber.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/perm_sync.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/mkdirp.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/umask_sync.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/test/umask.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/example/parse.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/test/dash.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/test/whitespace.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/test/dotted.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/package.json" />
+    <ignored path="node_modules/jade/node_modules/monocle/monocle.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/monocle/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/test/parse_modified.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/index.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/test/short.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/test/default_bool.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/test/long.js" />
+    <ignored path="node_modules/jade/node_modules/mkdirp/node_modules/minimist/test/parse.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/bin/uglifyjs" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/lib/scope.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/lib/parse.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/lib/transform.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/README.md" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/lib/mozilla-ast.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/lib/sourcemap.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/lib/output.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/lib/utils.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/lib/compress.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/package.json" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/.bin/uglifyjs" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/issue-44.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/debugger.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/issue-59.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/issue-105.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/switch.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/concat-strings.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/blocks.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/negate-iife.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/arrays.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/issue-126.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/sequences.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/loops.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/tools/node.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/run-tests.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/lib/ast.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/issue-12.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/issue-269.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/labels.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/issue-267.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/typeof.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/issue-143.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/conditionals.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/properties.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/dead-code.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/drop-unused.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/test/compress/issue-22.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/test/_.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/test/usage.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/test/_/bin.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/test/_/argv.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/line_count_options.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/usage-options.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/default_singles.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/bool.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/nonopt.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/divide.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/line_count.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/boolean_single.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/line_count_wrap.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/xup.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/short.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/async/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/async/package.json" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/async/README.md" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/async/component.json" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/async/lib/async.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/readme.markdown" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/package.json" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/index.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/test/parse.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/lib/source-map/util.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/lib/source-map/binary-search.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/lib/source-map.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/README.md" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/package.json" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/Makefile.dryice.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/CHANGELOG.md" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/.tern-port" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/example/meat.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/example/center.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/break.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/idleness.txt" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/README.markdown" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/wrap.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/index.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/package.json" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/default_hash.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/boolean_double.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/reflect.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/string.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/lib/source-map/base64.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/lib/source-map/array-set.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-map-consumer.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-map-generator.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/lib/source-map/base64-vlq.js" />
+    <ignored path="node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-node.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/dead-code.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/drop-unused.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-22.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-267.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/typeof.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-143.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/conditionals.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-12.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-269.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/labels.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/run-tests.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/ast.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/output.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/sourcemap.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/mozilla-ast.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/debugger.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-105.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-44.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/properties.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-59.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/test/index.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/.bin/uglifyjs" />
+    <ignored path="node_modules/jade/node_modules/constantinople/index.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/README.md" />
+    <ignored path="node_modules/jade/node_modules/constantinople/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/constantinople/.gitattributes" />
+    <ignored path="node_modules/jade/node_modules/constantinople/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/constantinople/package.json" />
+    <ignored path="node_modules/jade/node_modules/void-elements/README.md" />
+    <ignored path="node_modules/jade/node_modules/void-elements/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/constantinople/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/void-elements/test/index.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/parse.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/transform.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/utils.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/compress.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/README.md" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/bin/uglifyjs" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/scope.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/package.json" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/build/suffix-browser.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/build/suffix-source-map.jsm" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-map-generator.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/test-base64.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/build/test-suffix.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/build/mini-require.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/build/test-prefix.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-node.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/util.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/test-util.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-map-consumer.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/test-array-set.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/test-base64-vlq.js" />
+    <ignored path="node_modules/jade/node_modules/void-elements/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/void-elements/.gitattributes" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/README.md" />
+    <ignored path="node_modules/jade/node_modules/void-elements/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/void-elements/package.json" />
+    <ignored path="node_modules/jade/node_modules/void-elements/index.js" />
+    <ignored path="node_modules/jade/node_modules/void-elements/pre-publish.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/build/suffix-utils.jsm" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/build/prefix-utils.jsm" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/build/assert-shim.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/intercept.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/amdefine.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/CHANGELOG.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/README.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/Makefile.dryice.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-node.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/lib/source-map/base64.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/lib/source-map/array-set.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/run-tests.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/test-api.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/test-dog-fooding.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/test/source-map/test-binary-search.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/lib/source-map.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/lib/source-map/binary-search.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/lib/source-map/util.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-map-consumer.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-map-generator.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/lib/source-map/base64-vlq.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/boolean_single.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/line_count_wrap.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/divide.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/line_count.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/bool.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/nonopt.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/usage-options.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/default_singles.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/boolean_double.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/string.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/default_hash.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/short.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/reflect.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/xup.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/break.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/wrap.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/README.markdown" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/index.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/package.json" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/CHANGELOG.md" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/.tern-port" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/example/center.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/example/meat.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/idleness.txt" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/readme.markdown" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/parse.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/_.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/package.json" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/index.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/_/bin.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/usage.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/_/argv.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/line_count_options.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/switch.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/concat-strings.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/blocks.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/negate-iife.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/arrays.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-126.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/sequences.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/loops.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/tools/node.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/async/package.json" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/async/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/async/README.md" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/async/component.json" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/async/lib/async.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise/readme.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise/index.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/promise/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/promise/index.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/.bin/uglifyjs" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/Makefile" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/promise/Readme.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/promise/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/index.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/History.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/component.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse/Makefile" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse/History.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/Readme.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse/Readme.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse/component.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse/index.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/Makefile" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/component.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/History.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/index.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/test.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/Readme.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/css/benchmark.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/lib/shared.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/lib/transformers.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/history.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/README.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/commander/index.js" />
+    <ignored path="node_modules/jade/node_modules/commander/package.json" />
+    <ignored path="node_modules/jade/node_modules/commander/Readme.md" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache/test/basic.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache/lib/lru-cache.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/sigmund/test/basic.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache/package.json" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache/CONTRIBUTORS" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache/README.md" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/sigmund/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/sigmund/bench.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/sigmund/package.json" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/sigmund/sigmund.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/node_modules/sigmund/README.md" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/test/caching.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/README.md" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/test/basic.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/test/extglob-ending-with-state-char.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/test/defaults.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/test/brace-expand.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/callback-api.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/package.json" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/minimatch.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/node_modules/minimatch/package.json" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/bed/root_dir2/root_dir2_file1.ext1" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/bed/root_dir2/root_dir2_file2.ext2" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/bed/root_dir1/root_dir1_file1.ext1" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/bed/root_dir1/root_dir1_subdir1/root1_dir1_subdir1_file1.ext1" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/grep.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/stream-api.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/stream-api-pipe.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/Readme.md" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/bed/root_file1.ext1" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/bed/root_file3.ext3" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/bed/root_dir1/root_dir1_file2.ext2" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/bed/root_file2.ext2" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/bed/root_dir1/root_dir1_file3.ext3" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/readdirp.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/readdirp.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/test/readdirp-stream.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/README.md" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/monocle/README.md" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/package.json" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/stream-api.js" />
+    <ignored path="node_modules/jade/node_modules/monocle/node_modules/readdirp/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/index.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/README.markdown" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/example/center.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/example/meat.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/wrap.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/idleness.txt" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/break.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/line_count_wrap.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/xup.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/short.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/reflect.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/divide.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/line_count.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/boolean_single.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/string.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/default_hash.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/boolean_double.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/test/_.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/test/parse.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/nonopt.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/bool.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/default_singles.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/usage-options.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/line_count_options.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/test/_/argv.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/test/_/bin.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/test/usage.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/readme.markdown" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/index.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/issue-44.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/blocks.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/debugger.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/switch.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/loops.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/sequences.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/arrays.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/tools/node.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/drop-unused.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/dead-code.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/properties.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/issue-59.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/issue-105.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/lib/ast.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/lib/output.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/conditionals.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/issue-12.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/labels.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/run-tests.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/test/compress/issue-22.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/package.json" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/bin/uglifyjs" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/lib/scope.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/README.md" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/lib/transform.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/lib/parse.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/lib/mozilla-ast.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/lib/sourcemap.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/lib/utils.js" />
+    <ignored path="node_modules/jade/node_modules/transformers/node_modules/uglify-js/lib/compress.js" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/destroy/index.js" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/destroy/package.json" />
+    <ignored path="node_modules/express/node_modules/vary/LICENSE" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/destroy/README.md" />
+    <ignored path="node_modules/express/node_modules/vary/package.json" />
+    <ignored path="node_modules/express/node_modules/vary/.npmignore" />
+    <ignored path="node_modules/express/node_modules/vary/index.js" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/mime/types/node.types" />
+    <ignored path="node_modules/express/node_modules/fresh/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/fresh/README.md" />
+    <ignored path="node_modules/express/node_modules/cookie/LICENSE" />
+    <ignored path="node_modules/express/node_modules/cookie/.npmignore" />
+    <ignored path="node_modules/express/node_modules/cookie/package.json" />
+    <ignored path="node_modules/express/node_modules/cookie/index.js" />
+    <ignored path="node_modules/express/node_modules/cookie/README.md" />
+    <ignored path="node_modules/express/node_modules/vary/History.md" />
+    <ignored path="node_modules/express/node_modules/vary/README.md" />
+    <ignored path="node_modules/express/node_modules/fresh/LICENSE" />
+    <ignored path="node_modules/express/node_modules/fresh/package.json" />
+    <ignored path="node_modules/express/node_modules/fresh/index.js" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/mime-types/index.js" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/mime-types/LICENSE" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/mime-types/README.md" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/mime-types/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/accepts/index.js" />
+    <ignored path="node_modules/express/node_modules/accepts/package.json" />
+    <ignored path="node_modules/express/node_modules/accepts/LICENSE" />
+    <ignored path="node_modules/express/node_modules/accepts/README.md" />
+    <ignored path="node_modules/express/node_modules/accepts/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/negotiator/lib/encoding.js" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/negotiator/lib/language.js" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/negotiator/lib/negotiator.js" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/negotiator/lib/mediaType.js" />
+    <ignored path="node_modules/express/node_modules/methods/.npmignore" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/negotiator/lib/charset.js" />
+    <ignored path="node_modules/express/node_modules/methods/LICENSE" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/index.js" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/README.md" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/db.json" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/negotiator/README.md" />
+    <ignored path="node_modules/express/node_modules/accepts/node_modules/negotiator/LICENSE" />
+    <ignored path="node_modules/express/node_modules/send/package.json" />
+    <ignored path="node_modules/express/node_modules/send/Readme.md" />
+    <ignored path="node_modules/express/node_modules/send/index.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/index.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/create.js" />
+    <ignored path="node_modules/express/node_modules/send/LICENSE" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/crc16.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/crc8.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/crc.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/crc1.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/crc16_modbus.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/hex.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/crc32.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/crc16_ccitt.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/crc24.js" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/mime/mime.js" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/mime/README.md" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/mime/types/mime.types" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/mime/LICENSE" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/mime/test.js" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/mime/package.json" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/ms/.npmignore" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/ms/package.json" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/ms/index.js" />
+    <ignored path="node_modules/express/node_modules/send/node_modules/ms/README.md" />
+    <ignored path="node_modules/express/node_modules/send/History.md" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/ipaddr.min.js" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/README.md" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/lib/ipaddr.js" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/src/ipaddr.coffee" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/test/ipaddr.test.coffee" />
+    <ignored path="node_modules/express/node_modules/escape-html/.npmignore" />
+    <ignored path="node_modules/express/node_modules/escape-html/Readme.md" />
+    <ignored path="node_modules/express/node_modules/escape-html/package.json" />
+    <ignored path="node_modules/express/node_modules/escape-html/index.js" />
+    <ignored path="node_modules/express/node_modules/escape-html/component.json" />
+    <ignored path="node_modules/express/node_modules/escape-html/Makefile" />
+    <ignored path="node_modules/express/node_modules/media-typer/LICENSE" />
+    <ignored path="node_modules/express/node_modules/media-typer/package.json" />
+    <ignored path="node_modules/express/node_modules/media-typer/index.js" />
+    <ignored path="node_modules/express/node_modules/media-typer/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/on-finished/LICENSE" />
+    <ignored path="node_modules/express/node_modules/media-typer/README.md" />
+    <ignored path="node_modules/express/node_modules/on-finished/package.json" />
+    <ignored path="node_modules/express/node_modules/on-finished/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/on-finished/index.js" />
+    <ignored path="node_modules/express/node_modules/on-finished/README.md" />
+    <ignored path="node_modules/express/node_modules/on-finished/node_modules/ee-first/package.json" />
+    <ignored path="node_modules/express/node_modules/on-finished/node_modules/ee-first/LICENSE" />
+    <ignored path="node_modules/express/node_modules/on-finished/node_modules/ee-first/README.md" />
+    <ignored path="node_modules/express/node_modules/on-finished/node_modules/ee-first/index.js" />
+    <ignored path="node_modules/express/node_modules/utils-merge/package.json" />
+    <ignored path="node_modules/express/node_modules/utils-merge/LICENSE" />
+    <ignored path="node_modules/express/node_modules/utils-merge/.travis.yml" />
+    <ignored path="node_modules/express/node_modules/utils-merge/index.js" />
+    <ignored path="node_modules/express/node_modules/finalhandler/package.json" />
+    <ignored path="node_modules/express/node_modules/finalhandler/index.js" />
+    <ignored path="node_modules/express/node_modules/utils-merge/README.md" />
+    <ignored path="node_modules/express/node_modules/finalhandler/LICENSE" />
+    <ignored path="node_modules/express/node_modules/range-parser/LICENSE" />
+    <ignored path="node_modules/express/node_modules/range-parser/package.json" />
+    <ignored path="node_modules/express/node_modules/finalhandler/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/finalhandler/README.md" />
+    <ignored path="node_modules/express/node_modules/range-parser/README.md" />
+    <ignored path="node_modules/express/node_modules/serve-static/LICENSE" />
+    <ignored path="node_modules/express/node_modules/range-parser/index.js" />
+    <ignored path="node_modules/express/node_modules/range-parser/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/serve-static/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/serve-static/README.md" />
+    <ignored path="node_modules/express/node_modules/serve-static/package.json" />
+    <ignored path="node_modules/express/node_modules/serve-static/index.js" />
+    <ignored path="node_modules/express/node_modules/path-to-regexp/package.json" />
+    <ignored path="node_modules/express/node_modules/path-to-regexp/test.js" />
+    <ignored path="node_modules/express/node_modules/path-to-regexp/Readme.md" />
+    <ignored path="node_modules/express/node_modules/path-to-regexp/.npmignore" />
+    <ignored path="node_modules/express/node_modules/cookie-signature/.npmignore" />
+    <ignored path="node_modules/express/node_modules/path-to-regexp/History.md" />
+    <ignored path="node_modules/express/node_modules/path-to-regexp/component.json" />
+    <ignored path="node_modules/express/node_modules/path-to-regexp/index.js" />
+    <ignored path="node_modules/express/node_modules/cookie-signature/History.md" />
+    <ignored path="node_modules/express/node_modules/cookie-signature/index.js" />
+    <ignored path="node_modules/express/node_modules/cookie-signature/package.json" />
+    <ignored path="node_modules/express/node_modules/cookie-signature/Readme.md" />
+    <ignored path="node_modules/express/node_modules/merge-descriptors/index.js" />
+    <ignored path="node_modules/express/node_modules/merge-descriptors/package.json" />
+    <ignored path="node_modules/express/node_modules/merge-descriptors/.npmignore" />
+    <ignored path="node_modules/express/node_modules/cookie-signature/Makefile" />
+    <ignored path="node_modules/express/node_modules/methods/History.md" />
+    <ignored path="node_modules/express/node_modules/methods/test/methods.js" />
+    <ignored path="node_modules/express/node_modules/type-is/LICENSE" />
+    <ignored path="node_modules/express/node_modules/methods/Readme.md" />
+    <ignored path="node_modules/express/node_modules/methods/package.json" />
+    <ignored path="node_modules/express/node_modules/methods/index.js" />
+    <ignored path="node_modules/express/node_modules/type-is/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/type-is/README.md" />
+    <ignored path="node_modules/express/node_modules/type-is/package.json" />
+    <ignored path="node_modules/express/node_modules/type-is/index.js" />
+    <ignored path="node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" />
+    <ignored path="node_modules/express/node_modules/type-is/node_modules/mime-types/LICENSE" />
+    <ignored path="node_modules/express/node_modules/type-is/node_modules/mime-types/README.md" />
+    <ignored path="node_modules/express/node_modules/type-is/node_modules/mime-types/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/type-is/node_modules/mime-types/index.js" />
+    <ignored path="node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/README.md" />
+    <ignored path="node_modules/express/node_modules/parseurl/LICENSE" />
+    <ignored path="node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+    <ignored path="node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/index.js" />
+    <ignored path="node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+    <ignored path="node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/db.json" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/package.json" />
+    <ignored path="node_modules/express/node_modules/parseurl/README.md" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/LICENSE" />
+    <ignored path="node_modules/express/node_modules/parseurl/index.js" />
+    <ignored path="node_modules/express/node_modules/parseurl/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/parseurl/.npmignore" />
+    <ignored path="node_modules/express/node_modules/parseurl/package.json" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/forwarded/index.js" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/forwarded/LICENSE" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/README.md" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/index.js" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/Cakefile" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/.npmignore" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/LICENSE" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/forwarded/README.md" />
+    <ignored path="node_modules/express/node_modules/proxy-addr/node_modules/forwarded/HISTORY.md" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/package.json" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/suffix-utils.jsm" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/README.md" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/uglify-to-browserify/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/intercept.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/amdefine.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/mini-require.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/prefix-utils.jsm" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/assert-shim.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/test-suffix.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/suffix-browser.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/suffix-source-map.jsm" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/test-prefix.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-map-generator.js" />
+    <ignored path="node_modules/debug/debug.js" />
+    <ignored path="node_modules/debug/component.json" />
+    <ignored path="node_modules/debug/History.md" />
+    <ignored path="node_modules/debug/Makefile" />
+    <ignored path="node_modules/debug/.jshintrc" />
+    <ignored path="node_modules/debug/.npmignore" />
+    <ignored path="node_modules/debug/node.js" />
+    <ignored path="node_modules/debug/Readme.md" />
+    <ignored path="node_modules/debug/browser.js" />
+    <ignored path="node_modules/debug/package.json" />
+    <ignored path="node_modules/jade/node_modules/character-parser/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/uglify-to-browserify/test/index.js" />
+    <ignored path="node_modules/jade/node_modules/character-parser/package.json" />
+    <ignored path="node_modules/jade/node_modules/character-parser/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/character-parser/README.md" />
+    <ignored path="node_modules/jade/node_modules/character-parser/index.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/uglify-to-browserify/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/uglify-to-browserify/index.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/uglify-to-browserify/package.json" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/uglify-to-browserify/README.md" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/uglify-to-browserify/.travis.yml" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-node.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/util.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/test-dog-fooding.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/test-binary-search.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/test-api.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map/array-set.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/run-tests.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map/base64.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-node.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map/base64-vlq.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-map-generator.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map/source-map-consumer.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map/util.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map/binary-search.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/README.md" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/package.json" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/.npmignore" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/Makefile.dryice.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/LICENSE" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/test-base64.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/test-util.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/test-base64-vlq.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-map-consumer.js" />
+    <ignored path="node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/test/source-map/test-array-set.js" />
+    <ignored path="node_modules/express/node_modules/qs/CONTRIBUTING.md" />
+    <ignored path="node_modules/express/node_modules/qs/.travis.yml" />
+    <ignored path="node_modules/express/node_modules/qs/CHANGELOG.md" />
+    <ignored path="node_modules/express/node_modules/qs/.jshintignore" />
+    <ignored path="node_modules/express/node_modules/qs/.npmignore" />
+    <ignored path="node_modules/express/node_modules/qs/LICENSE" />
+    <ignored path="node_modules/express/node_modules/qs/.jshintrc" />
+    <ignored path="node_modules/express/node_modules/qs/Makefile" />
+    <ignored path="node_modules/express/node_modules/qs/README.md" />
+    <ignored path="node_modules/express/node_modules/qs/index.js" />
+    <ignored path="node_modules/express/node_modules/qs/package.json" />
+    <ignored path="node_modules/express/node_modules/etag/package.json" />
+    <ignored path="node_modules/express/node_modules/etag/LICENSE" />
+    <ignored path="node_modules/express/node_modules/etag/index.js" />
+    <ignored path="node_modules/express/node_modules/etag/README.md" />
+    <ignored path="node_modules/express/node_modules/etag/HISTORY.md" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/.npmignore" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/LICENSE" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/package.json" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/lib/crc8_1wire.js" />
+    <ignored path="node_modules/express/node_modules/etag/node_modules/crc/README.md" />
+    <ignored path="node_modules/express/node_modules/qs/lib/parse.js" />
+    <ignored path="node_modules/express/node_modules/qs/lib/utils.js" />
+    <ignored path="node_modules/express/node_modules/qs/lib/stringify.js" />
+    <ignored path="node_modules/express/node_modules/qs/lib/index.js" />
+    <ignored path="node_modules/express/node_modules/qs/test/parse.js" />
+    <ignored path="node_modules/express/node_modules/qs/test/stringify.js" />
+    <ignored path="node_modules/express/node_modules/depd/LICENSE" />
+    <ignored path="node_modules/express/node_modules/depd/Readme.md" />
+    <ignored path="node_modules/express/node_modules/depd/package.json" />
+    <ignored path="node_modules/express/node_modules/depd/index.js" />
+    <ignored path="node_modules/express/node_modules/depd/History.md" />
+    <ignored path="node_modules/express/node_modules/depd/lib/compat/buffer-concat.js" />
+    <ignored path="node_modules/express/node_modules/depd/lib/compat/index.js" />
+    <ignored path="node_modules/express/node_modules/depd/lib/compat/callsite-tostring.js" />
+    <ignored path="node_modules/morgan/node_modules/depd/lib/compat/callsite-tostring.js" />
+    <ignored path="node_modules/morgan/node_modules/depd/lib/compat/index.js" />
+    <ignored path="node_modules/morgan/node_modules/depd/lib/compat/buffer-concat.js" />
+    <ignored path="node_modules/morgan/node_modules/depd/History.md" />
+    <ignored path="node_modules/morgan/node_modules/depd/index.js" />
+    <ignored path="node_modules/morgan/node_modules/depd/package.json" />
+    <ignored path="node_modules/morgan/node_modules/depd/Readme.md" />
+    <ignored path="node_modules/morgan/node_modules/on-finished/HISTORY.md" />
+    <ignored path="node_modules/morgan/node_modules/on-finished/index.js" />
+    <ignored path="node_modules/morgan/node_modules/on-finished/package.json" />
+    <ignored path="node_modules/morgan/node_modules/on-finished/LICENSE" />
+    <ignored path="node_modules/morgan/node_modules/basic-auth/index.js" />
+    <ignored path="node_modules/morgan/node_modules/basic-auth/package.json" />
+    <ignored path="node_modules/morgan/node_modules/basic-auth/Readme.md" />
+    <ignored path="node_modules/morgan/LICENSE" />
+    <ignored path="node_modules/morgan/package.json" />
+    <ignored path="node_modules/debug/node_modules/ms/index.js" />
+    <ignored path="node_modules/debug/node_modules/ms/README.md" />
+    <ignored path="node_modules/debug/node_modules/ms/.npmignore" />
+    <ignored path="node_modules/debug/node_modules/ms/package.json" />
+    <ignored path="node_modules/morgan/node_modules/depd/LICENSE" />
+    <ignored path="node_modules/morgan/README.md" />
+    <ignored path="node_modules/morgan/index.js" />
+    <ignored path="node_modules/morgan/HISTORY.md" />
+    <ignored path="node_modules/express/lib/application.js" />
+    <ignored path="node_modules/express/lib/router/route.js" />
+    <ignored path="node_modules/express/lib/view.js" />
+    <ignored path="node_modules/express/lib/utils.js" />
+    <ignored path="node_modules/express/lib/response.js" />
+    <ignored path="node_modules/express/lib/middleware/query.js" />
+    <ignored path="node_modules/express/lib/router/index.js" />
+    <ignored path="node_modules/express/lib/router/layer.js" />
+    <ignored path="node_modules/express/lib/middleware/init.js" />
+    <ignored path="node_modules/express/lib/router/match.js" />
+    <ignored path="node_modules/morgan/node_modules/on-finished/node_modules/ee-first/index.js" />
+    <ignored path="node_modules/morgan/node_modules/on-finished/node_modules/ee-first/README.md" />
+    <ignored path="node_modules/express/LICENSE" />
+    <ignored path="node_modules/express/.npmignore" />
+    <ignored path="node_modules/morgan/node_modules/on-finished/README.md" />
+    <ignored path="node_modules/morgan/node_modules/on-finished/node_modules/ee-first/LICENSE" />
+    <ignored path="node_modules/morgan/node_modules/on-finished/node_modules/ee-first/package.json" />
+    <ignored path="node_modules/express/index.js" />
+    <ignored path="node_modules/express/History.md" />
+    <ignored path="node_modules/express/lib/request.js" />
+    <ignored path="node_modules/express/lib/express.js" />
+    <ignored path="node_modules/express/Readme.md" />
+    <ignored path="node_modules/express/package.json" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="t2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1139">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layout.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/server">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/error.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/users.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24401914" vertical-offset="0" max-vertical-offset="627">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Brian Sullivan" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/views/about.jade" />
+        <option value="$PROJECT_DIR$/routes/about.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="vcs.Perforce" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin/server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$/routes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.server">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome osx" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="false" name="server JavaScript" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:3000/">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.server JavaScript" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.server" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea36db99-6bd9-4545-96c6-27046d750bee" name="Default" comment="" />
+      <created>1412920144564</created>
+      <updated>1412920144564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39957264" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="First commit of Webstorm express boilerplate" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit of Webstorm express boilerplate" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/users.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/error.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="937">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/server">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1139">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24401914" vertical-offset="0" max-vertical-offset="627">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
